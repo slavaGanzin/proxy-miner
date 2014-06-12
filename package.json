@@ -1,0 +1,15 @@
+{
+  "name": "search",
+  "version": "0.0.1",
+  "description": "proxy-miner",
+  "main": "app/miner/main.js",
+  "author": "terraqout",
+  "dependencies": {
+    "jquery": "latest",
+    "redis": "latest",
+    "jsdom": "latest",
+    "request": "latest",
+    "async": "latest",
+    "performance-now": "latest"
+  }
+}
